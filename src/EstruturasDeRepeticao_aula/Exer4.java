@@ -1,6 +1,5 @@
 package EstruturasDeRepeticao_aula;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Exer4 {
